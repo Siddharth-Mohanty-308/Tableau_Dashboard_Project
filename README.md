@@ -1,14 +1,14 @@
 ## Tableau_Dashboard_Project
 
-> 💡[Link to dashboard](https://public.tableau.com/app/profile/siddharth.mohanty7677/viz/LondonBikesDashboard_16940264234300/Dashboard1)
-##### Insert image
+> [**Link to dashboard**](https://public.tableau.com/app/profile/siddharth.mohanty7677/viz/LondonBikesDashboard_16940264234300/Dashboard1)
 
-## Play with the moving average duration and period to see how the graph and heatmap change
+#### 💡 Play with the moving average duration and moving average period values to see how the graph and heatmap change
+![]()
 
+> 👀 ## You can download the london_merged.csv and london_bikes.ipynb to follow along
 
-## You can download the london_merged.csv and london_bikes.ipynb to follow along
-
-### Steps I used to ceate the dashboard
+### Steps to ceate the dashboard
+---
 #### Downloaded the dataset on london bike sharing (london_merged.csv) from kaggle
 #### Created a python notebook for data cleaning and transformation
 #### Saved the final dataframe to a excel file (london_bikes) for visualization
