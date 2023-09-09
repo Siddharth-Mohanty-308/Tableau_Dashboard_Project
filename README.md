@@ -3,9 +3,9 @@
 > [**Link to dashboard**](https://public.tableau.com/app/profile/siddharth.mohanty7677/viz/LondonBikesDashboard_16940264234300/Dashboard1)
 
 #### 💡 Play with the moving average duration and moving average period values to see how the graph and heatmap change
-![]()
+![dashboard_tools_image](./Dashboard_image.png)
 
-> 👀 ## You can download the london_merged.csv and london_bikes.ipynb to follow along
+> 👀**You can download the london_merged.csv and london_bikes.ipynb to follow the steps mentioned below**
 
 ### Steps to ceate the dashboard
 ---
