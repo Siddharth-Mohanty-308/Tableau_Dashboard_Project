@@ -1,6 +1,6 @@
-# Tableau_Dashboard_Project
+## Tableau_Dashboard_Project
 
-## Link to dashboard:- https://public.tableau.com/app/profile/siddharth.mohanty7677/viz/LondonBikesDashboard_16940264234300/Dashboard1
+> 💡[Link to dashboard](https://public.tableau.com/app/profile/siddharth.mohanty7677/viz/LondonBikesDashboard_16940264234300/Dashboard1)
 ##### Insert image
 
 ## Play with the moving average duration and period to see how the graph and heatmap change
